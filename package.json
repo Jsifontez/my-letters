@@ -1,0 +1,11 @@
+{
+  "name": "my-love",
+  "version": "1.0.0",
+  "description": "Cartas para mi amor",
+  "main": "index.js",
+  "author": "Juan Sifontez <juansfontz@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "serve"
+  }
+}
